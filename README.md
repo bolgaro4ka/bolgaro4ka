@@ -8,6 +8,8 @@ My English no very well! But Russian very good 🎉
   - Python 🐍
     - Django
     - Tkinter
+    - Pygame
+    - Ren'py
   - HTML5 🟥
   - CSS3 🌈
 
