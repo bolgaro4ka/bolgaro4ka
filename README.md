@@ -14,7 +14,7 @@ My English no very well! But Russian very good 🎉
   - CSS3 🌈
 
 Email: **bolgaro4ka.github@gmail.com**
-
+Support: **https://www.donationalerts.com/r/nikitocka**
 <!--
 **bolgaro4ka/bolgaro4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
