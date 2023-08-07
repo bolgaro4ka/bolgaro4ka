@@ -1,6 +1,6 @@
 # Hi everyone 👋
 
-I love programming! 💻
+I love programming! :octocat:
 
 My English no very well! But Russian very good 🎉
 
@@ -12,8 +12,10 @@ My English no very well! But Russian very good 🎉
     - Ren'py
   - HTML5 🟥
   - CSS3 🌈
-  - Javascript 🟧
-  - C++ 🟦
+<!--  - Javascript 🟧
+  - C++ 🟦 -->
+
+## Contact
 
 Email: **bolgaro4ka.github@gmail.com**
 
