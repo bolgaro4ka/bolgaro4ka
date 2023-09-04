@@ -12,8 +12,9 @@ My English no very well! But Russian very good 🎉
     - Ren'py
   - HTML5 🟥
   - CSS3 🌈
-<!--  - Javascript 🟧
-  - C++ 🟦 -->
+  - Javascript 🟧
+  з
+<!-- C++ 🟦 -->
 
 ## Contact
 
