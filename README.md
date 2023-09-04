@@ -13,7 +13,6 @@ My English no very well! But Russian very good 🎉
   - HTML5 🟥
   - CSS3 🌈
   - Javascript 🟧
-  з
 <!-- C++ 🟦 -->
 
 ## Contact
