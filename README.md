@@ -15,6 +15,7 @@ My English no very well! But Russian very good 🎉
   - CSS3 🌈
   - Javascript 🟧
     - Vue 3
+    - React
 <!-- C++ 🟦 -->
 
 ## Contact
