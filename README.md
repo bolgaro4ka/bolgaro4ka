@@ -19,6 +19,7 @@ My English no very well! But Russian very good 🎉
     - React
     - Node.JS
 <!-- C++ 🟦 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bolgaro4ka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
 
 <!-- [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) -->
 [![streak](https://codeium.com/badges/v2/user/raggedly-discrete-tamarin-86396/streak)](https://codeium.com/profile/raggedly-discrete-tamarin-86396)
@@ -41,3 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=bolgaro4ka&theme=juicyfresh&no-bg=true" />
+
+<div style="display: flex; align-items: center; justify-content: center;"><p>Visitor`s count: </p><img src="https://profile-counter.glitch.me/{bolgaro4ka}/count.svg" alt="bolgaro4ka :: Visitor's Count" /></div>
