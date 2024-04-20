@@ -20,6 +20,8 @@ My English no very well! But Russian very good 🎉
     - Node.JS
 <!-- C++ 🟦 -->
 
+<!-- [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) -->
+[![streak](https://codeium.com/badges/v2/user/raggedly-discrete-tamarin-86396/streak)](https://codeium.com/profile/raggedly-discrete-tamarin-86396)
 ## Contact
 
 Email: **bolgaro4ka.github@gmail.com**
