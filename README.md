@@ -15,6 +15,8 @@ My English no very well! But Russian very good 🎉
   - CSS3 🌈
     - SASS 
   - Javascript 🟧
+    - GSAP
+    - Zustand
     - Vue 3
     - React
     - Node.JS
