@@ -9,6 +9,7 @@ My English no very well! But Russian very good 🎉
     - Django
     - Tkinter
     - Pygame
+    - Aiogram
     - Ren'py
     - PyWebIO
   - HTML5 🟥
