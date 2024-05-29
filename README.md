@@ -4,7 +4,7 @@ I love programming! :octocat:
 
 My English no very well! But Russian very good 🎉
 
-## Languages:
+## Languages and technologies:
   - Python 🐍
     - Django
     - Tkinter
