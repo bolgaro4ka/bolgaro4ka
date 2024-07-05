@@ -21,6 +21,7 @@ My English no very well! But Russian very good 🎉
     - Vue 3
     - React
     - Node.JS
+  - TypeScript 🟦
   - Docker 🐳
   - Linux 🐧
   - Nginx 🟩
