@@ -18,10 +18,13 @@ My English no very well! But Russian very good 🎉
     - SASS 
   - Javascript 🟧
     - GSAP
+  - Node.JS 🤯
+    - Express
+  - React 🚀
     - Zustand
-    - Vue 3
-    - React
-    - Node.JS
+    - TSX
+    - JSX
+  - Vue 3 ✅
   - TypeScript 🟦
   - Docker 🐳
   - Linux 🐧
