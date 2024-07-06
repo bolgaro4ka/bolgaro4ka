@@ -6,7 +6,8 @@ My English no very well! But Russian very good 🎉
 
 ## Languages and technologies:
   - Python 🐍
-    - Django
+    - **Django**
+    - **Django REST framework**
     - Tkinter and CustomTkinter
     - Pygame
     - Aiogram
