@@ -15,7 +15,8 @@ My English no very well! But Russian very good 🎉
     - PyWebIO
   - HTML5 🟥
   - CSS3 🌈
-    - SASS 
+    - SASS
+    - SCSS
   - Javascript 🟧
     - GSAP
   - Node.JS 🤯
