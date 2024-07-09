@@ -26,6 +26,9 @@ My English no very well! But Russian very good 🎉
     - TSX
     - JSX
   - Vue 3 ✅
+  - DBS 📅
+    - SQLite
+    - MongoDB
   - TypeScript 🟦
   - Docker 🐳
   - Linux 🐧
