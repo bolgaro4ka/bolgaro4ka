@@ -22,10 +22,12 @@ My English no very well! But Russian very good 🎉
   - Node.JS 🤯
     - Express
   - React 🚀
+    - Next.JS
     - Zustand
     - TSX
     - JSX
   - Vue 3 ✅
+    - Vite
   - DBs 📅
     - SQLite
     - MongoDB
