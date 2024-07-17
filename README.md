@@ -43,6 +43,7 @@ My English no very well! But Russian very good 🎉
 ## Contact
 
 Email: **bolgaro4ka.github@gmail.com**
+Telegram: **@papyas_07**
 
 Support: `undefined`
 <!--
