@@ -19,13 +19,14 @@ My English no very well! But Russian very good 🎉
     - SCSS
   - Javascript 🟧
     - GSAP
+    - Electron
+    - YoptaScript
   - Node.JS 🤯
     - Express
   - React 🚀
     - Next.JS
     - Zustand
-    - TSX
-    - JSX
+  - Nest.JS 🐈
   - Vue 3 ✅
     - Vite
   - DBs 📅
