@@ -45,7 +45,7 @@ My English no very well! But Russian very good 🎉
 
 Email: **bolgaro4ka.github@gmail.com**
 
-Telegram: **@papyas_07**
+Telegram: **@blgr4k**
 
 Support: `undefined`
 <!--
