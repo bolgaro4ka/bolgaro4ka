@@ -3,7 +3,7 @@
 I love programming! :octocat:
 
 ## My languages
-- Russin native
+- Russian native
 - English B1
 - Japanise N5
 
