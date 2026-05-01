@@ -2,7 +2,10 @@
 
 I love programming! :octocat:
 
-My English no very well! But Russian very good 🎉
+## My languages
+- Russin native
+- English B1
+- Japanise N5
 
 ## Languages and technologies:
   - Python 🐍
